@@ -1,0 +1,8 @@
+com\klu\service\StudentService.class
+com\klu\model\Student.class
+com\klu\repository\StudentRepository.class
+com\klu\config\CorsConfig$1.class
+com\klu\config\CorsConfig.class
+com\klu\service\StudentServiceImpl.class
+com\klu\Skill12BackendApplication.class
+com\klu\controller\StudentController.class
